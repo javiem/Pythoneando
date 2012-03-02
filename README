@@ -5,13 +5,13 @@
 ##
 ### Autor: Héctor Costa Guzmán
 ### Año: 2012
-### Web: http://www.hcosta.info/wp/category/proyectos/pythoneando/
+### Web: www.hcosta.info
 ##
 ##
 ##
 ### CONTENIDOS
 ##
-### Capítulo 1
+### Capítulo 1: Introducción, tipos, operadores y colecciones
 ##
 ### 001 Hola Mundo
 ### 002 Tipos de datos
@@ -21,5 +21,13 @@
 ### 006 Colecciones 1: Listas
 ### 007 Colecciones 2: Tuplas
 ### 008 Colecciones 3: Diccionarios
+##
+##
+### Capítulo 2: Bloques condicionales, bucles y funciones
+##
+### 009 Condicionales
+### 010 Bucles
+### 011 Funciones
+### 011b Función recursiva del Hombre Bucle
 ##
 ##
