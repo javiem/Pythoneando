@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#coding=utf-
+#coding=utf-8
 
 import time
 
