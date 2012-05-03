@@ -45,7 +45,6 @@
 ### 021 Expresiones generadoras
 ### 022 Funciones decoradoras
 ##
-##
 ### Capítulo 5: Opciones avanzadas
 ##
 ### 023 Excepciones
@@ -70,4 +69,14 @@
 ##
 ### 034 Docstrings
 ### 035 Pydoc
+##
+### Capítulo 9: Pruebas
+##
+### 034 Docstrings
+### 035 Pydoc
+##
+### Capítulo 10: Distribución
+##
+### 040 Distutils
+### 041 Ejecutables .exe
 ##
