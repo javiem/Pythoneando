@@ -2,7 +2,7 @@
 #coding=utf-8
 print "\n### Doctest con sentencias anidadas ###\n"
 
-## Por sentencias anidadas se entiende el c�digode un bloque
+## Por sentencias anidadas se entiende el código de un bloque
 ## Por ejemplo si queremos ejecutar un bucle for, lo tendremos
 ## que anidas con los tres puntos ...
 
@@ -18,12 +18,12 @@ def doble(obj):
     """
     return obj * 2
 
-## Ahora definimos la funci�n _test que ejecutar� doctest
+## Ahora definimos la función _test que ejecutará doctest
 def _test():
     import doctest
     doctest.testmod()
     
-## Que se llamar� siempre que ejecutemos el m�todo main al compilar
+## Que se llamará siempre que ejecutemos el método main al compilar
 if __name__ == "__main__":
     _test()
     
