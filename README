@@ -72,8 +72,10 @@
 ##
 ### Capítulo 9: Pruebas
 ##
-### 034 Docstrings
-### 035 Pydoc
+### 036 Doctest
+### 037 Doctest anidado
+### 038 Unittest / PyUnit
+### 039 Pruebas en contexto
 ##
 ### Capítulo 10: Distribución
 ##
