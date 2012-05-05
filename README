@@ -8,7 +8,7 @@
 ### Web: www.hcosta.info
 ##
 ##
-### CONTENIDOS
+#########  Capítulos
 ##
 ### Capítulo 1: Introducción, tipos, operadores y colecciones
 ##
@@ -81,4 +81,18 @@
 ##
 ### 040 Distutils
 ### 041 Ejecutables .exe
+##
+##
+#########  Anexos
+##
+### Interfaces gráficas con wxPython
+##
+### 042 Hola Mundo
+### 043 Editor simple
+### 044 Barra de menú
+### 045 Capturar eventos
+### 046 Calibradores
+### 047 Posicionamiento absoluto de cotroles
+### 048 Posicionamiento en red de cotroles
+### 049 Bloc de notas
 ##
