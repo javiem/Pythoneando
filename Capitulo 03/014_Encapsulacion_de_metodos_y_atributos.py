@@ -2,6 +2,10 @@
 #coding=utf-8
 print "\n### Programacion Orientada a Objetos: Encapsulacion ###"
 
+"""La encapsulación se refiere a impedir el acceso a determinados mé-
+todos y atributos de los objetos estableciendo así qué puede utilizarse
+desde fuera de la clase."""
+
 ## Clase con métodos privados y públicos
 class Ejemplo:
     def publico(self): # método público
